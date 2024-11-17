@@ -1,6 +1,5 @@
 ## Autonomous Mobile Robot
 Here I am in a process of creating my own custom mobile robot with initial features: 
-* Teleop
+* Keyboard and JoyStick Teleop
 * Autonomous Navigation
-* SLAM
-* and many more
+* Mapping and SLAM
